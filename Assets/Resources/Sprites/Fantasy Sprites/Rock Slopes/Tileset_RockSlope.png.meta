@@ -632,9 +632,9 @@ TextureImporter:
       name: Tileset_RockSlope_15
       rect:
         serializedVersion: 2
-        x: 15
+        x: 29
         y: 895
-        width: 82
+        width: 54
         height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1737,7 +1737,7 @@ TextureImporter:
         width: 17
         height: 7
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
